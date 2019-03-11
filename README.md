@@ -1,5 +1,3 @@
-![Logo](logo.gif "Logo")
-
 # entidiaprompt Floating Prompt 
 
 Quick and easy floating notifications

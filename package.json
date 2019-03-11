@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/entidia/entidiaprompt.git"
+    "url": "https://github.com/entidia/entidia-prompt.git"
   },
   "keywords": [
     "entidia",
@@ -22,12 +22,12 @@
     "floating",
     "prompt"
   ],
-  "author": "Markus Deuerlein",
+  "author": "entidia - Markus Deuerlein",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/entidia/entidiaprompt/issues"
+    "url": "https://github.com/entidia/entidia-prompt.git"
   },
-  "homepage": "https://github.com/entidia/entidiaprompt",
+  "homepage": "https://github.com/entidia/entidia-prompt.git",
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.51",
     "@babel/core": "^7.0.0-beta.51",
