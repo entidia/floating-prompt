@@ -1,9 +1,9 @@
-# entidiaprompt Floating Prompt 
+# entidia Prompt
 
 Quick and easy floating notifications
 
 ## How to use
-The entidiaprompt Floating Prompt is very easy to use, just copy paste the following code or use the npm package.
+The entidia prompt is very easy to use, just copy paste the following code or use the npm package.
 A few customization such as localstorage to appear only once, color, position are availables check the options below.
 
 ### Easy way (using the CDN)
