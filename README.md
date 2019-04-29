@@ -9,7 +9,7 @@ A few customization such as localstorage to appear only once, color, position ar
 ### Easy way (using the CDN)
 Just add this code to your html page:
 ```html
-<script src="https://cdn.entidia.net/js/entidiaprompt.min.js"></script>
+<script src="https://cdn.entidia.net/scripts/entidiaprompt.min.js"></script>
 <script>
   entidiaprompt({
     text:'We have some great news for you', 
