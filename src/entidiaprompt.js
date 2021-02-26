@@ -1,6 +1,7 @@
 export default function entidiaprompt(options) {
 
   /* eslint-disable */
+  // TODO Test
   const target = '';
   const name = options.name ? options.name : 'prompt';
   const url = options.url ? options.url : '' ;
